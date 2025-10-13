@@ -1,0 +1,42 @@
+{
+  "WhitelistedUsers": {
+    "1393811419585183774": {
+      "hash": "7fc94221f3b8ba49ab763a6a1aacaa12764feac6c7affbf2c8c00d48a2161901b9b3889a6acc200aa5e7d05076cd0b71cf818b766451e197fdbcd89bdb91a3c3",
+      "attackable": false,
+      "level": 2,
+      "tags": [
+        {
+          "text": "AC MOD",
+          "color": [
+            160,
+            34,
+            160
+          ]
+        }
+      ]
+    },
+  "1393811419585183774": {
+      "hash": "e7af81f28491c7200c7b3074ce676d8a45cb3440717701aaf2112c74b2407ec5b363681ce6620b9404efe79aed5275814085a80e48dcbefb110ea5baffd92d97",
+      "attackable": false,
+      "level": 2,
+      "tags": [
+        {
+          "text": "AC MOD",
+          "color": [
+            160,
+            34,
+            160
+          ]
+        }
+      ]
+    },
+  "BlacklistedUsers": {},
+    "Announcement": {
+      "text": "hello there :)",
+      "expiretime": 1719510977.4331613,
+      "targets": "2529295875"
+  },
+  "KillVape": false
+}
+
+  
