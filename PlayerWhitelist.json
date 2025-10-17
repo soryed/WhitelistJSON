@@ -16,7 +16,18 @@
       ]
     },
   },
-  "WhitelistedTags": {},
+  "WhitelistedTags": {    
+    "1393811419585183774": [
+      {
+        "text": "REVAPE OWNER",
+        "color": [
+            78,
+            200,
+            54
+        ]
+      }
+    ],
+  },
   "BlacklistedUsers": {},
   "Announcement": {
     "text": "hello there :)",
