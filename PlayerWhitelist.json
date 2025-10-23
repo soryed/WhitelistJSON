@@ -16,9 +16,35 @@
         }
       ]
     },
+    "9705518292": {
+      "userId": "9705518292",
+      "hash": "3ad829cdc024ac136da8a6cad34a87ccb1df068308590fb328cd119bad05953f3854dfccf353c44e26fb6f7eff5a3a4390e96443241353c34386bf984c16d9e",
+      "attackable": false,
+      "level": 2,
+      "tags": [
+        {
+          "text": "REVAPE OWNER",
+          "color": [
+            78,
+            200,
+            54
+          ]
+        }
+      ]
+    },
   },
   "WhitelistedTags": {    
     "7756737656": [
+      {
+        "text": "REVAPE OWNER",
+        "color": [
+            78,
+            200,
+            54
+        ]
+      }
+    ],
+    "9705518292": [
       {
         "text": "REVAPE OWNER",
         "color": [
