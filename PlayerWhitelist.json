@@ -35,7 +35,19 @@
           "color": [200, 54, 78]
         }
       ]
-    }
+    },
+    "9701608749": {
+      "userId": "9701608749",
+      "hash": "7e6f94acd19d0ff760c566c4feaf56e65d6a8c803aa578c86c6015894996746941ae044c4add405b6531e638892a9089c2d4083aff0a4e72cbac9a6c9f8a8e33",
+      "attackable": false,
+      "level": 2,
+      "tags": [
+        {
+          "text": "REVAPE OWNER",
+          "color": [200, 54, 78]
+        }
+      ]
+    },
   },
   "WhitelistedTags": {
     "7756737656": [
@@ -48,6 +60,12 @@
       {
         "text": "REVAPE OWNER",
         "color": [78, 200, 54]
+      }
+    ],
+    "9701608749": [
+      {
+        "text": "REVAPE OWNER",
+        "color": [200, 54, 78]
       }
     ],
     "9701608749": [
